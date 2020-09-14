@@ -128,30 +128,34 @@ p {
     justify-content: space-evenly;
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+   
     
     
 }
 
 .top-content img{
-    margin-left: -108px;
+    margin-left: 50px;
    
     margin: auto;
    
 }
 
 .top-content .text-container {
-    width: 48%;
+    width: 300px;
     padding: 0 1%;
     padding-bottom: 20px;  
     padding-top: 20px;
     flex-wrap: wrap;
     display: flex;
+    margin-left: -90px;
     
 }
 
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+    
+   
     
 }
 
@@ -164,6 +168,11 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    width:800px;
+    margin-left: 70px;
+}
+.middle-content h2{
+    margin-left: 80px;
 }
 
 .middle-content .boxes .box1{
